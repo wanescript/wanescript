@@ -39,6 +39,8 @@ ___<p align="center">Non-traditional self-taught artist, student, and web develo
 
 <h3 align="center">Project: Simple landing page layout.</h3>
 
+___**<h3 align="center"> Click image for website.</h3>**___
+
 <p align= "center"><a href  ="http://daballers23.herokuapp.com"><img src="IMG/Daballers23.png" alt="alt text" title="Daballers23" height="250" />
 </a><br>
 Simple website layout using html and css grid with the incorporation of basic design principals. Deployed to heroku cloud storage for world wide access.
