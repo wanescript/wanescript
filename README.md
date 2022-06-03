@@ -45,8 +45,10 @@ ___**<h3 align="center"> Click image for website.</h3>**___
 </a><br>
 Simple website layout using html and css grid with the incorporation of basic design principals. Deployed to heroku cloud storage for world wide access. 
 </p>
- <p align="center"><img src="IMG/html.png" alt="alt text" title="Daballers23" height="46" />
-<img src="IMG" alt="alt text" title="Daballers23" height="46" /></p>
+
+---
+ <p align="center"><img src="IMG/html.png" alt="alt text" title="HTML" height="46" />
+ <img src="IMG/css.png" alt="alt text" title="CSS" height="46" /></p>
 
 ---
 resources: 
