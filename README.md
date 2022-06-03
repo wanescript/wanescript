@@ -43,7 +43,7 @@ ___**<h3 align="center"> Click image for website.</h3>**___
 
 <p align= "center"><a href  ="http://daballers23.herokuapp.com"><img src="IMG/Daballers23.png" alt="alt text" title="Daballers23" height="250" />
 </a><br>
-Simple website layout using html and css grid with the incorporation of basic design principals. Deployed to heroku cloud storage for world wide access.
+Simple website layout using html and css grid with the incorporation of basic design principals. Deployed to heroku cloud storage for world wide access. 
 </p>
  <p align="center"><img src="IMG/html.png" alt="alt text" title="Daballers23" height="46" />
 <img src="IMG/css.png" alt="alt text" title="Daballers23" height="46" /></p>
