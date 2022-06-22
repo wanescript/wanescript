@@ -2,7 +2,7 @@
 
 ---
 
-### 👋🏿🏽Wad up,  I'm wanescript
+### 👋🏿 🖤Wad up,  I'm wanescript❤️
 
 
 ## **<h2 align="center">Artist, and fullstack javascript developer.</h2>**
