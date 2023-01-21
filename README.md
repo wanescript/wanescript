@@ -2,7 +2,7 @@
 
 ---
 
-### 👋🏿 Hello,  I'm wanescript
+### 👋🏿 Wad Up..?, I'm wanescript.
 
 
 ## **<h2 align="center">fullstack javascript developer.</h2>**
