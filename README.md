@@ -5,9 +5,9 @@
 ### 👋🏿 🖤Wad up,  I'm wanescript❤️
 
 
-## **<h2 align="center">Artist, and fullstack javascript developer.</h2>**
+## **<h2 align="center">fullstack javascript developer.</h2>**
 
-___<p align="center">Non-traditional self-taught artist, student, and web developer. Learning everyday.</p>___
+___<p align="center">Self taught javascript fullstack web developer.</p>___
 
 ---
 
@@ -28,8 +28,8 @@ ___<p align="center">Non-traditional self-taught artist, student, and web develo
 
 ---
 
-- 🧾Open to freelance work or internship, preferably remote. Internship will be based on interest of company work and company culture.
-- 🖥️ Currently learning react and react-native.
+- 🧾Freelance or collaborating on a project are my primiary goals.
+
 ---
 
 <h3 align="center">^_Teaching while learning_^</h3>
