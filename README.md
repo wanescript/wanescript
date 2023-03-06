@@ -5,9 +5,9 @@
 ### 👋🏿 Wad Up..?, I'm wanescript.
 
 
-## **<h2 align="center">fullstack javascript developer.</h2>**
+## **<h2 align="center">Fullstack Javascript Developer.</h2>**
 
-___<p align="center">Self taught javascript fullstack web developer.</p>___
+
 
 ---
 
@@ -22,23 +22,14 @@ ___<p align="center">Self taught javascript fullstack web developer.</p>___
 
 ---
 
-- 🧾Freelance or collaborating on a project are my primiary goals.
 
 ---
 
 <h3 align="center">^_Teaching while learning_^</h3>
 
 <p align="center">^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^</p>
-<h1 align="center">Daballers23</h1>
 
-<h3 align="center">Project: Simple landing page layout.</h3>
 
-___**<h3 align="center"> Click image for website.</h3>**___
-
-<p align= "center"><a href  ="http://daballers23.herokuapp.com"><img src="IMG/Daballers23.png" alt="alt text" title="Daballers23" height="250" />
-</a><br>
-Simple website layout using html and css grid with some basic design principals. 
-</p>
 
 ---
  <p align="center"><img src="IMG/html.png" alt="alt text" title="HTML" height="46" />
@@ -60,11 +51,3 @@ resources:
 <a target="_blank" href="https://icons8.com/icon/108784/javascript">JavaScript</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 <a target="_blank" href="https://icons8.com/icon/54087/nodejs">Nodejs</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
-<a target="_blank" href="https://icons8.com/icon/cdYUlRaag9G9/docker">Docker</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
-<a target="_blank" href="https://icons8.com/icon/31085/heroku">Heroku</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
-<a target="_blank" href="https://icons8.com/icon/13631/adobe-illustrator">Adobe Illustrator</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
-<a target="_blank" href="https://icons8.com/icon/13677/adobe-photoshop">Adobe Photoshop</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
