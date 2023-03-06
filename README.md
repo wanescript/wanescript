@@ -18,11 +18,6 @@ ___<p align="center">Self taught javascript fullstack web developer.</p>___
 <img src="IMG/css.png" alt="CSS" title="CSS" height="46" />
 <img src="IMG/javascript.png" alt="Javascript" title="Javascript" height="46" />
 <img src="IMG/nodejs.png" alt="Javascript" title="Javascript" height="46" />
-<img src="IMG/docker.png" alt="Javascript" title="Javascript" height="46" />
-<img src="IMG/mongodb.png" alt="Javascript" title="Javascript" height="46" />
-<img src="IMG/illustrator.png" alt="Javascript" title="Javascript" height="46" />
-<img src="IMG/photoshop.png" alt="Javascript" title="Javascript" height="46" />
-
 </p> 
 
 ---
