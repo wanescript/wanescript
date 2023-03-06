@@ -31,9 +31,6 @@
 
 
 
----
- <p align="center"><img src="IMG/html.png" alt="alt text" title="HTML" height="46" />
- <img src="IMG/css.png" alt="alt text" title="CSS" height="46" /></p>
 
 ---
 resources: 
