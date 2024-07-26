@@ -8,10 +8,14 @@
 ## **<h2 align="center">Web Developer | HTML, CSS, JavaScript Enthusiast | Learning React & Next.js</h2>**
 
 <h3>Skills</h3>
-<ul styles:display:flex; color👱‍♂️red;>
+<ul styles: display:block;>
   <li>HTML</li>
   <li>CSS</li>
   <li>javascript</li>
+  <li>git</li>
+  <li>nodejs</li>
+  <li>react</li>
+  <li>nextjs</li>
 </ul>
 
 
