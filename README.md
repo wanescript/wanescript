@@ -5,7 +5,7 @@
 ### 👋🏿 Wad Up..?, I'm wanescript.
 
 
-## **<h2 align="center">Fullstack Javascript Developer.</h2>**
+## **<h2 align="center">Web Developer | HTML, CSS, JavaScript Enthusiast | Learning React & Next.js</h2>**
 
 
 
