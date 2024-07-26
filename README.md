@@ -5,18 +5,9 @@
 ### 👋🏿 Wad Up..?, I'm wanescript.
 
 
-## **<h2 align="center">Web Developer | HTML, CSS, JavaScript General | Learning React & Next.js</h2>**
+## **<h2 align="center">Web Developer | HTML, CSS, JavaScript General | </h2>**
 
-<h3>Skills</h3>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>javascript</li>
-  <li>git</li>
-  <li>nodejs</li>
-  <li>react</li>
-  <li>nextjs</li>
-</ul>
+<p text-align:"center">Learning React & Next.js</p>
 
 </div>
 
