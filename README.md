@@ -5,7 +5,7 @@
 ### 👋🏿 Wad Up..?, I'm wanescript.
 
 
-## **<h2 align="center">Web Developer | HTML, CSS, JavaScript General | </h2>**
+## **<h2 align="center"><em>Web Developer | HTML, CSS, JavaScript General |</em> </h2>**
 
 <p align="center">Learning React & Next.js</p>
 
