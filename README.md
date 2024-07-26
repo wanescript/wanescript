@@ -7,7 +7,7 @@
 
 ## **<h2 align="center">Web Developer | HTML, CSS, JavaScript General | </h2>**
 
-<p align:"center">Learning React & Next.js</p>
+<p align="center">Learning React & Next.js</p>
 
 </div>
 
