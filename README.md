@@ -7,6 +7,7 @@
 
 ## **<h2 align="center">Web Developer | HTML, CSS, JavaScript Enthusiast | Learning React & Next.js</h2>**
 
+<div align="center">
 <h3>Skills</h3>
 <ul styles: display:block;>
   <li>HTML</li>
@@ -18,7 +19,7 @@
   <li>nextjs</li>
 </ul>
 
-
+</div>
 
 <h3 align="center">^_Teaching while learning_^</h3>
 
