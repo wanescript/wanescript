@@ -8,7 +8,7 @@
 ## **<h2 align="center">Web Developer | HTML, CSS, JavaScript Enthusiast | Learning React & Next.js</h2>**
 
 <h3>Skills</h3>
-<ul align="center">
+<ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>javascript</li>
